@@ -1,0 +1,130 @@
+#wrapper {
+    width: 1200px;
+    margin: auto;
+    text-decoration: none;
+    background-image: url("../img/anhBiaTrai.png");
+    border-radius: 20px;
+}
+
+#tieude {
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    margin: 10px;
+
+
+}
+
+#header {
+    width: 1200px;
+    height: 100px;
+    background-color: rgba(250, 235, 215, 0.81);
+    border-radius: 20px;
+
+}
+
+#Menu {
+    width: 1180px;
+    height: 19px;
+    background-color: rgba(255, 228, 196, 0.85);
+    margin: 0;
+    padding: 10px;
+}
+
+.linkWeb {
+    height: 50px;
+    width: 50px;
+}
+
+.linkWeb:hover {
+    background-color: rgba(255, 228, 196, 0.85);
+}
+
+#logo {
+    width: auto;
+    height: 100px;
+    float: left;
+    padding-left: -10px;
+
+
+}
+
+
+ul#Menu li a {
+    padding: 10px;
+    text-decoration: none;
+
+
+}
+
+ul#Menu li a:hover {
+    color: #030303;
+}
+
+ul#Menu li {
+    float: left;
+}
+
+ul li {
+    list-style: none;
+}
+
+#Left {
+    width: 200px;
+    height: 1000px;
+    background-color: rgba(255, 165, 0, 0.43);
+    float: left;
+
+}
+
+#Right {
+    width: 200px;
+    height: 1000px;
+    background-color: rgba(255, 165, 0, 0.43);
+    float: right;
+
+}
+
+#Content {
+    width: 800px;
+    height: auto;
+    text-align: center;
+    float: left;
+}
+
+#Footer {
+    width: 1200px;
+    height: 60px;
+    background-color: rgba(233, 150, 122, 0.71);
+    clear: both;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#showFormEdit {
+    width: 400px;
+    height: 200px;
+    position: fixed;
+    margin-left: 73%;
+    margin-top: 400px;
+    text-align: center;
+}
+
+#div2 {
+    border: 1px solid;
+    width: 100%;
+    height: 100%;
+    background-color: burlywood;
+    border-radius: 30px;
+}
+
+input {
+    border-radius: 10px;
+}
+
+button {
+    border-radius: 10px;
+}
+
